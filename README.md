@@ -4,6 +4,8 @@
 
 👩🏻‍💻 Desenvolvedor full-stack, designer visual e desenvolvedor de jogos.<br/>
 👩🏻‍🎓 Técnico em informática pelo [IFC-CAS](https://sombrio.ifc.edu.br/).
+🎨 Trabalhando como freelancer e buscando me aprimorar sempre mais.<br/>
+😊 Sinta-se à vontade para explorar [meus projetos](https://github.com/VitorARS?tab=repositories), caso ainda não o tenha feito.<br/>
 
 #### Tecnologias que trabalho:
 - Front-end: HTML, CSS, JavaScript
