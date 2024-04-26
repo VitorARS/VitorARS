@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, eu sou Vitor Alexandre,
 
-<!--
-**VitorARS/VitorARS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### É um prazer recebê-lo em meu perfil! 👋
 
-Here are some ideas to get you started:
+👩🏻‍💻 Desenvolvedor full-stack, designer visual e desenvolvedor de jogos.<br/>
+👩🏻‍🎓 Técnico em informática pelo [IFC-CAS](https://sombrio.ifc.edu.br/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tecnologias que trabalho:
+- Front-end: HTML, CSS, JavaScript
+- Back-end: Node.js, PHP, MySLQ
+- Design: GIMP, Krita, Figma, Aseprite
+
+#### Contato:
+  Se você deseja entrar em contato comigo para oportunidades de colaboração ou trabalho,<br/> sinta-se à vontade para me enviar um e-mail em [vitor2005ars@gmail.com](mailto:vitor2005ars@gmail.com) ou me conectar através do [LinkedIn](link_para_o_perfil_linkedin).
+
