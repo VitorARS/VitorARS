@@ -8,7 +8,7 @@
 😊 Sinta-se à vontade para explorar [meus projetos](https://github.com/VitorARS?tab=repositories), caso ainda não o tenha feito.<br/>
 
 #### Tecnologias que trabalho:
-- Front-end: HTML, CSS, JavaScript Tailwind
+- Front-end: HTML, CSS, Tailwind, JavaScript
 - Back-end: PHP, MySLQ, Python, GDScript
 - Design: GIMP, Krita, Figma, Aseprite
 - SEO: Semrush, Google Search Console, CMSs
