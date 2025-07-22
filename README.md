@@ -4,12 +4,13 @@
 
 👩🏻‍💻 Desenvolvedor full-stack, designer visual e desenvolvedor de jogos.<br/>
 👩🏻‍🎓 Técnico em informática pelo [IFC-CAS](https://sombrio.ifc.edu.br/).<br/>
-🎨 Trabalhando no momento como SEO Analyst na FEBACAPITAL<br/>
+🎨 Trabalhando no momento como Automation Developer na FEBACAPITAL<br/>
 😊 Sinta-se à vontade para explorar [meus projetos](https://github.com/VitorARS?tab=repositories), caso ainda não o tenha feito.<br/>
 
-#### Tecnologias que trabalho:
+#### Principais tecnologias que trabalho:
 - Front-end: HTML, CSS, Tailwind, JavaScript
-- Back-end: PHP, MySLQ, Python, GDScript
+- Back-end: PHP, MySLQ, Java script, GDScript
+- Automação: N8N, Python
 - Design: GIMP, Krita, Figma, Aseprite
 - SEO: Semrush, Google Search Console, CMSs
 
